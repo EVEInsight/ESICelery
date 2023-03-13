@@ -1,3 +1,8 @@
+# DEPRECATION NOTICE     
+**This project was renamed to EVECelery and moved to [https://github.com/NatEVETools/EVECelery](https://github.com/NatEVETools/EVECelery).
+This repo and the [pypi package](https://pypi.org/project/ESICelery/) are no longer updated. Please see the [EVECelery](https://github.com/NatEVETools/EVECelery) repo for the latest updates.**
+
+
 # ESICelery
 ESI API requests library using [RabbitMQ](https://www.rabbitmq.com/), [celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html) tasks queues, and [Redis](https://redis.io/) caching.
 
